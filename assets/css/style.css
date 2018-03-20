@@ -1,0 +1,95 @@
+body {
+	background: url(../images/background.jpg);
+	background-size: cover;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p {
+  color: rgb(170, 245, 71);
+  text-align: center;
+  font-size: 18px;
+}
+
+#output {
+	width: 500px;
+	margin: 0 auto 10px;
+  height: 130px;
+  border: 2px ridge #757370;
+}
+
+#random number {
+	padding-left: 8px;
+}
+
+#number {
+	background-color: #fff;
+	font-size: 100px;
+	color: #757370;
+	width: 50%;
+	height: 120px;
+  float: left;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#score {
+	background-color: #757370;
+	width: 50%;
+	height: 100%;
+	font-size: 30px;
+	float: right;
+  text-align: center;
+}
+
+h2{
+  font-size: 30px;
+  color: #fff;
+  padding-top: 10px;
+}
+
+
+
+#stones {
+	background-color: #fff;
+	width: 520px;
+	height: 190px;
+	margin: auto;
+	border: 2px ridge #757370;
+}
+
+#stones img {
+	width: 130px;
+	height: 180px;
+	float: left;
+}
+
+#scoreBoard {
+	width: 300px;
+	height: 100px;
+  margin: 10px auto;
+  background-color: rgba(200, 200,200, 0.5);
+  border: 2px ridge #757370;
+}
+
+#scoreBoard p {
+	font-size: 150%;
+	padding-top: 5px;
+	padding-left: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+#currentScore {
+	color: #fff;
+	font-size: 350%;
+  text-align: center;
+}
+
+
